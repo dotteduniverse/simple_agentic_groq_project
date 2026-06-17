@@ -1,7 +1,4 @@
 🧠 Multi‑Tool AI Agent with Groq
-https://img.shields.io/badge/python-3.9+-blue.svg
-https://img.shields.io/badge/Groq-API-black?logo=groq
-https://img.shields.io/badge/License-MIT-yellow.svg
 
 A production‑ready, extensible AI agent that uses Groq’s free API to power tool‑calling capabilities: math operations, internet search, and Python code generation & validation.
 
@@ -34,11 +31,6 @@ Config – centralized environment settings.
 
 
 
-
-
-
-
-
 📁 Project Structure
 text
 agent_project/
@@ -61,6 +53,8 @@ agent_project/
 ├── main.py                         # Composition root / REPL entry
 ├── requirements.txt
 └── README.md
+
+
 🚀 Getting Started
 Prerequisites
 Python 3.9+
