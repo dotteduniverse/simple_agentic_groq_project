@@ -16,5 +16,6 @@ class Settings:
     
     # Optional: Fallback models, etc.
     LLM_PROVIDER: str = os.getenv("LLM_PROVIDER", "groq")  # supports 'groq' or 'openai'
+    DEBUG: bool = os.getenv("DEBUG", "True").lower() == "true"
 
 settings = Settings()
