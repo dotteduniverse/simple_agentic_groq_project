@@ -208,3 +208,4 @@ DuckDuckGo Search library for web search.
 
 The open‑source community for inspiration.
 .
+.
